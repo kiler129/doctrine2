@@ -102,7 +102,7 @@ foreign keys as primary keys feature of Doctrine introduced in version 2.1.
 
 See :doc:`the tutorial on composite primary keys for more information<../tutorials/composite-primary-keys>`.
 
-How can i paginate fetch-joined collections?
+How can I paginate fetch-joined collections?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you are issuing a DQL statement that fetches a collection as well you cannot easily iterate
